@@ -24,7 +24,7 @@ const Hero = () => (
   <section className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-gray-900 dark:to-gray-800">
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center">
       <img
-        src="https://media.licdn.com/dms/image/v2/D5603AQHYANchjSBZjw/profile-displayphoto-shrink_400_400/B56ZYfDudRGsAs-/0/1744277793354?e=1749686400&v=beta&t=Gu2mQMODAU2EgPMWaYoVtYySxfKLtlZF5nwTFpY7JOg"
+        src="https://github.com/GhaniKale/My-Portofolio/blob/main/img.jpg"
         alt="Profile"
         className="w-40 h-40 rounded-full mx-auto mb-8 object-cover shadow-lg"
       />
